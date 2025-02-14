@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "learn Entity": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
